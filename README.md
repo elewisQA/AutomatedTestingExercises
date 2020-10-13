@@ -4,7 +4,7 @@ Since I have merged these from different project folders, they may not work when
   
 ## Related Repos:
 Linked here are repos containing some of these projects individually   
-(Passionate Tea)[https://github.com/elewisQA/cucumber-tea]  
-(Shopping Site)[https://github.com/elewisQA/ShoppingSiteTesting]  
-(DemoSite - Cucumber)[https://github.com/elewisQA/DemoSiteCucumber]  
-(DemoSite - Selenium)[https://github.com/elewisQA/DemoSiteTesting]  
+[Passionate Tea](https://github.com/elewisQA/cucumber-tea)  
+[Shopping Site](https://github.com/elewisQA/ShoppingSiteTesting)  
+[DemoSite - Cucumber](https://github.com/elewisQA/DemoSiteCucumber)   
+[DemoSite - Selenium](https://github.com/elewisQA/DemoSiteTesting)  
